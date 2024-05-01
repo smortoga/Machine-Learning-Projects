@@ -1,4 +1,4 @@
-* 🧠  I'm learning more about machine learning and project/data management. Off field (Violin)
+[* 🧠  I'm learning more about machine learning and project/data management. Off field (Violin)
 * ⚡  yet to come
 
 <a href="https://www.github.com/" target="_blank" rel="noreferrer"><img
@@ -31,3 +31,4 @@ src="https://img.shields.io/github/followers/?logo=github&style=for-the-badge&co
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+](https://www.linkedin.com/in/dr-sharif-mortoga-653ab34b/)
