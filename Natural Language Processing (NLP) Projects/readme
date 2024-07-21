@@ -1,1 +1,12 @@
 
+In the second project a survey among the people was conducted. People are allowed to give a feedback about the whole survey.
+In this project, besides focusing on sentiment analysis, an analysis of those answers was performed.
+
+Texts written in German language was analysed.
+Hereby Huggingface model was employed to extract the main info related to peoples(patients) sentiment. These are as follows:
+
+
+1. Why are people unhappy?
+2. What to do to improve our survey?
+3. What is good in the survey?
+4. Where are the interesting feedback and not just a comment like “Cool”
