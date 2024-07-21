@@ -1,4 +1,5 @@
 
+############## First Project; Patient Sentiment Analysis ###########
 In the first project 'Sentiment Analysis' a survey among the people was conducted. People are allowed to give a feedback about the whole survey.
 In this project, besides focusing on sentiment analysis, an analysis of those answers was performed.
 
@@ -10,3 +11,31 @@ Hereby Huggingface model was employed to extract the main info related to people
 2. What to do to improve our survey?
 3. What is good in the survey?
 4. Where are the interesting feedback and not just a comment like “Cool”
+
+
+
+
+########## Second Project; Data summarization using AI #############
+
+
+Goal:
+
+From any GERMAN text entry, return a summary of the text
+
+Used Tool:
+Use pre-trained open model like from huggingface 
+
+Performed Tasks: 
+	•	Search for some pre-trained model
+	•	Test the model with some text 
+	•	make a wrapper around the core functions
+	•	use a dedicated python environment (list of requirement clear)
+	•	easiest to start: input = excel file with a column called e.g. “TEXT”. Another column like “ID” should not be lost when processing
+	•	formatting of the output into a clean/tabular result
+
+Ultimate goals are the followings: 
+	•	A web interface with “upload Excel” possibility and “export results”
+	•	An API available in some internal network to access from another application
+
+
+
